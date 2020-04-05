@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-func init(){
+func init() {
 	log.SetOutput(os.Stdout)
 }
 
